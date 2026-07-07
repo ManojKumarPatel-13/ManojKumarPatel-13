@@ -1,10 +1,6 @@
 # Hi there, I'm Manoj! 👋 
 
-<p align="left">
-  <img src="https://shields.io" alt="Status"/>
-  <img src="https://shields.io" alt="Focus"/>
-  <img src="https://shields.io" alt="Role"/>
-</p>
+![Status](https://shields.io) ![Focus](https://shields.io) ![Role](https://shields.io)
 
 I am an aspiring Software Development Engineer specializing in **Full-Stack Web Architecture** and **AI System Integration**. My engineering philosophy centers on writing clean, maintainable, and type-safe systems while leading technical workflows from initial system design to production deployment.
 
@@ -26,16 +22,15 @@ I am an aspiring Software Development Engineer specializing in **Full-Stack Web 
 - **Languages:** Python, JavaScript, C, C++, SQL, HTML5, CSS3
 - **Frontend Systems:** React.js, Next.js, Tailwind CSS
 - **Backend & Database:** Node.js, Express.js, Firebase Firestore
-- **Engineering Paradigms:** Git, GitHub
+- **Engineering Paradigms:** Git, GitHub, RESTful API Design, Asynchronous Programming, CI/CD Pipelines
 
 ---
 
 ### 📊 Engineering Analytics & Activity
 
-<p align="left">
-  <img src="https://vercel.app" alt="Manoj's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Langs" height="180px"/>
-</p>
+![Manoj's GitHub Stats](https://vercel.app) 
+
+![Top Langs](https://vercel.app)
 
 ---
 
