@@ -10,7 +10,7 @@ I am an aspiring Software Development Engineer specializing in **Full-Stack Web 
 
 ### 🚀 Flagship Architecture
 
-📦 **[StudentOS](https://YOUR-STUDENTOS-LINK.vercel.app)**  
+📦 **[StudentOS](https://student-os-khaki.vercel.app/)**  
 *A serverless student productivity platform engineered to automate workflow schedules and data synchronization.*
 - **Architecture:** **Next.js**, Vercel CI/CD Pipeline, **Tailwind CSS** Engines
 - **Database & Auth:** Firebase Security Schemas, Real-Time **Firestore NoSQL** Data Persistence
@@ -38,7 +38,7 @@ I am an aspiring Software Development Engineer specializing in **Full-Stack Web 
 
 ### 🤝 Professional Network
 
-- **LinkedIn:** [linkedin.com/in/manoj-kumar-patel-25597398](https://linkedin.com/in/manoj-kumar-patel-25597398)
-- **Live System Demo:** [StudentOS Platform Instance](https://YOUR-STUDENTOS-LINK.vercel.app)
+- **LinkedIn:** [linkedin.com/in/manoj-kumar-patel-25597398](https://www.linkedin.com/in/manoj-kumar-patel-925597398/)
+- **Live System Demo:** [StudentOS Platform Instance](https://student-os-khaki.vercel.app/)
 
 *Continuously analyzing system performance and building scalable software architectures. Open to global technical collaborations.*
