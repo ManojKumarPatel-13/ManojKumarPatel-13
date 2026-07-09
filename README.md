@@ -41,4 +41,4 @@ I am an aspiring Software Development Engineer specializing in **Full-Stack Web 
 - **LinkedIn:** [linkedin.com/in/manoj-kumar-patel-25597398](https://www.linkedin.com/in/manoj-kumar-patel-925597398/)
 - **Live System Demo:** [StudentOS Platform Instance](https://student-os-khaki.vercel.app/)
 
-*Continuously analyzing system performance and building scalable software architectures. Open to global technical collaborations.*
+*Focused on designing high-throughput system architectures and optimizing asynchronous runtime performance.*
